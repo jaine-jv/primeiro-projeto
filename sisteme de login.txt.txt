@@ -1,3 +1,5 @@
-digite o e-mail:
+Digite o e-mail:
 
-digite sua senha:
+Digite sua senha:
+
+Digite sua idade:
